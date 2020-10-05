@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05ae2813-4b5b-4ae4-8cac-854f194e5532" name="Default Changelist" comment="" />
+    <list default="true" id="05ae2813-4b5b-4ae4-8cac-854f194e5532" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,8 +17,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JupyterTrust" id="68c77e98-d7bf-4b6d-81bf-239270db9c2e" />
   <component name="ProjectId" id="1hdq0L4xmJ0wSzcCOPwkWG6e6Cu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -98,6 +105,9 @@
       <workItem from="1600351129199" duration="31202000" />
       <workItem from="1600708200009" duration="2527000" />
       <workItem from="1600710889299" duration="1183000" />
+      <workItem from="1600898025120" duration="610000" />
+      <workItem from="1601234806469" duration="46000" />
+      <workItem from="1601307755435" duration="45000" />
     </task>
     <servers />
   </component>
@@ -145,10 +155,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1323" height="262" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1600712080652" />
-    <state x="391" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1600710893087">
+    <state x="391" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1601307787127">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="391" y="196" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1600710893087" />
+    <state x="391" y="196" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1601307787127" />
     <state x="339" y="22" width="672" height="676" key="search.everywhere.popup" timestamp="1600631340487">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
